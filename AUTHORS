@@ -1,0 +1,7 @@
+#!/bin/sh
+# This file lists all individuals who have contributed content to the repository.
+# For how this file is generated, see `hack/generate-authors.sh`.
+
+# List of contributors
+echo "Muritala Zubair <olaniyizubair@gmail.com>"
+echo "Innocent Audu <innocentaudu18@gmail.com>"
