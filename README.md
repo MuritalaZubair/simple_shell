@@ -1,1 +1,2 @@
-c1
+# simple_shell
+Simple shell in c
